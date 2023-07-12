@@ -1,6 +1,6 @@
 const { Agenda } = require("agenda");
 const os = require("os");
-const cron_jobs = require("./cron_jobs/index");
+const cron_jobs = require("../cron_jobs/index");
 
 console.log(os.cpus())
 

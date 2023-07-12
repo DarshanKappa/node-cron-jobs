@@ -2,9 +2,9 @@
   "name": "init_node",
   "version": "1.0.0",
   "description": "Nothing",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "jobs": "nodemon index.js",
+    "jobs": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Darshan Prajapati",

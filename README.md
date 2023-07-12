@@ -1,1 +1,6 @@
-run - npm run jobs
+###Agenda cron job
+
+`
+npm run jobs
+`
+
